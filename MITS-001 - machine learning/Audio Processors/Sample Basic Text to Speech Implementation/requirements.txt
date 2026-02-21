@@ -1,0 +1,6 @@
+datasets
+transformers
+soundfile
+sentencepiece
+torch
+ipython
