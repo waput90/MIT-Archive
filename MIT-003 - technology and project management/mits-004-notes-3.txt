@@ -1,0 +1,47 @@
+basic testing process
+- requirements
+- test planning - schedule the fix
+- execute tests
+- fix defects - meaning need to document 
+- release
+
+technology management alignment
+- governance
+	- establish testing policies and standards
+	- ensuire compliance with quality framework
+	- define accountability roles
+	- Monitor testing KPIs
+- risk
+	- testing reduce system failure risks
+	- identifies security vulnerabilities
+	- support business continuity
+	- prevent financial losses
+- ROI
+	- early defect detection lowers costs
+	- reduce maintenance expenses
+	- improves customer retention
+	- enhances product competitiveness
+- quality metrics 
+	- defect density
+	- test coverage
+	- failure rates
+	- customer satisfaction score
+
+testing in simple terms
+	- like proofreading a document
+	- like inspecting a product before selling
+	- fix issues before customers see them
+	- goal: find problems early
+
+
+unit testing - tests individual components functions
+integration testing - test interaction between modules 
+system testing - tests the complete system behavior
+acceptance testing - confirm system meets business needs
+
+types of software testing
+- functional testing - does it work as expected?
+- performance testing - is it fast enough?
+- security testing - is data protected?
+- usability testing - is it easy to use?
+

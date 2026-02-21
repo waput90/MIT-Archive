@@ -1,0 +1,22 @@
+stakeholder document -
+RACI matrix - 
+create your own risk register -
+
+review on how to develop business case
+- general objective - based from the problem itself ( look at your title)
+- specific objective - look the 5 whys to look at your diagram
+- budget - only incentive 
+
+triple constraint 
+- scope
+- time
+- cost
+
+feature must there on the specific objective
+
+- starting human resource management
+- stakeholder register will record the contacts for communication lines
+
+responsive - execute leg work
+accountable - monitor execution (of the successful execution)
+

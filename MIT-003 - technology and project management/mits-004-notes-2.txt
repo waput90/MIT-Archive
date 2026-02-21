@@ -1,0 +1,10 @@
+total deliverable
+total delayed
+total on going 
+total completed
+/ total number * 100 = round off to percentage
+
+total completed = count the number of completed / total number * 100 then round off to nearest hundred
+total delayed = count the number of delayed / total number * 100 then round off to nearest hundred
+total on going = count the number of on going / total number * 100 then round off to nearest hundred
+total not yet started = count the number of not yet started / total number * 100 then round off to nearest hundred
