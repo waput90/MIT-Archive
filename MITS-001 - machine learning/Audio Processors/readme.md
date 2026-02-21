@@ -1,8 +1,8 @@
 # Create virtual environment
-python -m venv .env
+```python -m venv .env```
 
 # Activate (Windows)
-.env\Scripts\activate
+```.env\Scripts\activate```
 
 # Install all libraries
-pip install -r requirements.txt
+```pip install -r requirements.txt```
