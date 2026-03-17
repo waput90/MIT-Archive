@@ -41,7 +41,8 @@ services:
       - N8N_PORT=5678
       - N8N_PROTOCOL=http
       - NODE_ENV=production
-      - WEBHOOK_URL=http://localhost:5678/
+      # changed to actual ngrok or port forward to access chat support
+      - WEBHOOK_URL=https://nonintrospective-remington-unquayed.ngrok-free.dev
     volumes:
       - n8n_data:/home/node/.n8n
     restart: unless-stopped
