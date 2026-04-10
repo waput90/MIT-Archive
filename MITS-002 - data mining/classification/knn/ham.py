@@ -7,7 +7,7 @@ from main import KNN_Spam_Detection
 import config
 
 # override neighboor value to simulate HAM
-config.n_neighbor = 10
+config.n_neighbor = 3
 
 knn, X_test, y_test, y_train, n_neighbors, X_train = KNN_Spam_Detection()
 
