@@ -32,12 +32,16 @@ def KNN_Spam_Detection():
     X_train, X_test, y_train, y_test = train_test_split(X_pca, y, test_size=config.test_size, random_state=config.random_state)
 
     # Train KNN on the 2D points
-    knn = KNeighborsClassifier(n_neighbors=n_neighbors, metric='manhattan')
+    knn = KNeighborsClassifier(n_neighbors=n_neighbors)
     knn.fit(X_train, y_train)
     
     
     # for checking most optimal K
     # Perform cross-validation for different values of k
+    # TODO:
+    # give citation from research according to...
+    # how its transform from contextual to numerical data...
+    
     # k_values = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
     # cv_scores = []
 
