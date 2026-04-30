@@ -1,0 +1,16 @@
+# Core numerical/audio
+numpy
+librosa
+soundfile
+sounddevice
+pyaudio
+
+# ASR training stack (Whisper fine-tuning)
+torch
+torchcodec
+transformers
+accelerate
+datasets
+evaluate
+jiwer
+tensorboard

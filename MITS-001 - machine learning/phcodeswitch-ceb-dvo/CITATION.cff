@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as follows."
+title: "phcodeswitch-ceb-dvo: Fine-tuning an Automatic Speech Recognition Model for Davao-Cebuano with Code-Switching Support"
+version: "1.1.0"
+date-released: "2026-04-18"
+url: "https://github.com/ericjohnemberda/phcodeswitch-ceb-dvo"
+repository-code: "https://github.com/ericjohnemberda/phcodeswitch-ceb-dvo"
+license: "LicenseRef-Repository-Data-Policy"
+authors:
+  - family-names: "Emberda"
+    given-names: "Eric John"
+keywords:
+  - "automatic speech recognition"
+  - "whisper"
+  - "davao cebuano"
+  - "code-switching"
+  - "philippine languages"

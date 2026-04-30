@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+asr_model_output/runs/
+asr_model_final/
+*.safetensors
+asr_model_output/
+.venv/
+audio_data/
+uv.lock
+
+.DS_Store
